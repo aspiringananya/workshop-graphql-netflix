@@ -1,4 +1,6 @@
 <!--- STARTEXCLUDE --->
+Site link : https://nifty-nightingale-dd9363.netlify.app/![image](https://user-images.githubusercontent.com/33785332/124865056-9b377e00-dfd7-11eb-94d5-556bc6f125d4.png)
+
 # 🎓 Netflix Clone using Astra DB and GraphQL
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
