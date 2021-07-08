@@ -1,5 +1,5 @@
 <!--- STARTEXCLUDE --->
-Site link : https://nifty-nightingale-dd9363.netlify.app/![image](https://user-images.githubusercontent.com/33785332/124865056-9b377e00-dfd7-11eb-94d5-556bc6f125d4.png)
+Site link : https://nifty-nightingale-dd9363.netlify.app/
 
 # 🎓 Netflix Clone using Astra DB and GraphQL
 
